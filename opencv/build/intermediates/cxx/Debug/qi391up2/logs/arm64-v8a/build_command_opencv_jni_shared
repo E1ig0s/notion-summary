@@ -1,0 +1,4 @@
+/Users/dgsw8th68/Library/Android/sdk/cmake/3.22.1/bin/ninja \
+  -C \
+  /Users/dgsw8th68/notionsummary/opencv/.cxx/Debug/qi391up2/arm64-v8a \
+  opencv_jni_shared
